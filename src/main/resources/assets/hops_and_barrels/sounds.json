@@ -1,0 +1,44 @@
+{
+  "effect.siphon": {
+    "sounds": [
+      { "name": "hops_and_barrels:effect/siphon0" },
+      { "name": "hops_and_barrels:effect/siphon1" },
+      { "name": "hops_and_barrels:effect/siphon1", "pitch": 1.1 },
+      { "name": "hops_and_barrels:effect/siphon1", "pitch": 0.9 },
+      { "name": "hops_and_barrels:effect/siphon2" },
+      { "name": "hops_and_barrels:effect/siphon2", "pitch": 0.9 },
+      { "name": "hops_and_barrels:effect/siphon2", "pitch": 1.2 },
+      { "name": "hops_and_barrels:effect/siphon3" },
+      { "name": "hops_and_barrels:effect/siphon3", "pitch": 0.9 }
+    ],
+    "subtitle": "hops_and_barrels.subtitles.effect.siphon"
+  },
+  "effect.bulwark.protect": {
+    "sounds": [
+      { "name": "hops_and_barrels:effect/bulwark_protect1" },
+      { "name": "hops_and_barrels:effect/bulwark_protect2" },
+      { "name": "hops_and_barrels:effect/bulwark_protect3" },
+      { "name": "hops_and_barrels:effect/bulwark_protect3", "pitch": 0.9 },
+      { "name": "hops_and_barrels:effect/bulwark_protect4" },
+      { "name": "hops_and_barrels:effect/bulwark_protect4", "pitch": 0.9 }
+    ],
+    "subtitle": "hops_and_barrels.subtitles.effect.bulwark.protect"
+  },
+  "block.juicer.crush": {
+    "sounds": [
+      { "name": "hops_and_barrels:block/juicer/crush1" },
+      { "name": "hops_and_barrels:block/juicer/crush1", "pitch": 0.9 },
+      { "name": "hops_and_barrels:block/juicer/crush2" },
+      { "name": "hops_and_barrels:block/juicer/crush2", "pitch": 0.8 },
+      { "name": "hops_and_barrels:block/juicer/crush3" },
+      { "name": "hops_and_barrels:block/juicer/crush3", "pitch": 0.8 },
+      { "name": "hops_and_barrels:block/juicer/crush4" },
+      { "name": "hops_and_barrels:block/juicer/crush4", "pitch": 0.8 },
+      { "name": "hops_and_barrels:block/juicer/crush5" },
+      { "name": "hops_and_barrels:block/juicer/crush5", "pitch": 0.8 },
+      { "name": "hops_and_barrels:block/juicer/crush6" },
+      { "name": "hops_and_barrels:block/juicer/crush6", "pitch": 0.8 }
+    ],
+    "subtitle": "hops_and_barrels.subtitles.block.juicer.crush"
+  }
+}

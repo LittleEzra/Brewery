@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "hops_and_barrels:block/elderberry_slab"
+    },
+    "type=double": {
+      "model": "hops_and_barrels:block/elderberry_planks"
+    },
+    "type=top": {
+      "model": "hops_and_barrels:block/elderberry_slab_top"
+    }
+  }
+}

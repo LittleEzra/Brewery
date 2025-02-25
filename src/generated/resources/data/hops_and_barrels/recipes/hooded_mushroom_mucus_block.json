@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "hops_and_barrels:hooded_mushroom_mucus"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "item": "hops_and_barrels:hooded_mushroom_mucus_block"
+  },
+  "show_notification": true
+}

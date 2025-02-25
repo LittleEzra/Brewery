@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "hops_and_barrels:elderberry_logs"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "hops_and_barrels:elderberry_planks"
+  }
+}

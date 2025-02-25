@@ -1,0 +1,12 @@
+{
+  "entries": [
+    "hops_and_barrels:double_crop_drops",
+    "hops_and_barrels:hops_seeds_from_grass",
+    "hops_and_barrels:white_grape_seeds_from_grass",
+    "hops_and_barrels:pirate_rum_from_buried_treasure",
+    "hops_and_barrels:barley_seeds_from_grass",
+    "hops_and_barrels:elderberry_sapling_from_taiga_villages",
+    "hops_and_barrels:red_grape_seeds_from_grass"
+  ],
+  "replace": false
+}

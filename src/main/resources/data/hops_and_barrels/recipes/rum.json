@@ -1,0 +1,17 @@
+{
+  "type": "hops_and_barrels:keg_brewing",
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:sugar_cane"
+    },
+    {
+      "item": "minecraft:sugar_cane"
+    }
+  ],
+  "result": {
+    "item": "hops_and_barrels:rum"
+  }
+}

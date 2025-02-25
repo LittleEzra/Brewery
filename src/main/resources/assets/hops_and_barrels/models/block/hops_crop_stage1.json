@@ -1,0 +1,7 @@
+{
+	"parent": "hops_and_barrels:block/trellis_crop",
+	"render_type": "cutout",
+	"textures": {
+		"crop": "hops_and_barrels:block/hops_crop_1"
+	}
+}

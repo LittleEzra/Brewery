@@ -1,0 +1,183 @@
+{
+  "parent": "hops_and_barrels:root",
+  "criteria": {
+    "0": {
+      "conditions": {
+        "item": {
+          "items": [
+            "hops_and_barrels:beer"
+          ]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "1": {
+      "conditions": {
+        "item": {
+          "items": [
+            "hops_and_barrels:red_wine"
+          ]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "10": {
+      "conditions": {
+        "item": {
+          "items": [
+            "hops_and_barrels:whiskey"
+          ]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "11": {
+      "conditions": {
+        "item": {
+          "items": [
+            "hops_and_barrels:old_wine"
+          ]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "2": {
+      "conditions": {
+        "item": {
+          "items": [
+            "hops_and_barrels:white_wine"
+          ]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "3": {
+      "conditions": {
+        "item": {
+          "items": [
+            "hops_and_barrels:starshine"
+          ]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "4": {
+      "conditions": {
+        "item": {
+          "items": [
+            "hops_and_barrels:hardy_brew"
+          ]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "5": {
+      "conditions": {
+        "item": {
+          "items": [
+            "hops_and_barrels:bloody_mary"
+          ]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "6": {
+      "conditions": {
+        "item": {
+          "items": [
+            "hops_and_barrels:rum"
+          ]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "7": {
+      "conditions": {
+        "item": {
+          "items": [
+            "hops_and_barrels:vodka"
+          ]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "8": {
+      "conditions": {
+        "item": {
+          "items": [
+            "hops_and_barrels:mead"
+          ]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "9": {
+      "conditions": {
+        "item": {
+          "items": [
+            "hops_and_barrels:sunset_rose"
+          ]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "color": "#DBA213",
+      "translate": "advancement.hops_and_barrels.all_alcohol.description"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "hops_and_barrels:beer"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.hops_and_barrels.all_alcohol"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ],
+    [
+      "1"
+    ],
+    [
+      "2"
+    ],
+    [
+      "3"
+    ],
+    [
+      "4"
+    ],
+    [
+      "5"
+    ],
+    [
+      "6"
+    ],
+    [
+      "7"
+    ],
+    [
+      "8"
+    ],
+    [
+      "9"
+    ],
+    [
+      "10"
+    ],
+    [
+      "11"
+    ]
+  ],
+  "rewards": {
+    "experience": 100
+  },
+  "sends_telemetry_event": true
+}

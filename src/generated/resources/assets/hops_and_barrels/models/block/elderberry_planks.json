@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "hops_and_barrels:block/elderberry_planks"
+  }
+}

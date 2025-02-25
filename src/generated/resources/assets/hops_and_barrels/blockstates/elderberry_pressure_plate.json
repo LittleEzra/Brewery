@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "hops_and_barrels:block/elderberry_pressure_plate"
+    },
+    "powered=true": {
+      "model": "hops_and_barrels:block/elderberry_pressure_plate_down"
+    }
+  }
+}

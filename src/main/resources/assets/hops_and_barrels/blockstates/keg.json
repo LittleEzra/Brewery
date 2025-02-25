@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "hops_and_barrels:block/keg",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "hops_and_barrels:block/keg"
+    },
+    "facing=south": {
+      "model": "hops_and_barrels:block/keg",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hops_and_barrels:block/keg",
+      "y": 270
+    }
+  }
+}

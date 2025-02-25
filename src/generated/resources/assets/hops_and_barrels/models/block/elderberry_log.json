@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "hops_and_barrels:block/elderberry_log_top",
+    "side": "hops_and_barrels:block/elderberry_log"
+  }
+}

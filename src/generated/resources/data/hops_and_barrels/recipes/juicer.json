@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "S": {
+      "tag": "minecraft:wooden_slabs"
+    }
+  },
+  "pattern": [
+    "P P",
+    "PSP",
+    "PSP"
+  ],
+  "result": {
+    "item": "hops_and_barrels:juicer"
+  },
+  "show_notification": true
+}

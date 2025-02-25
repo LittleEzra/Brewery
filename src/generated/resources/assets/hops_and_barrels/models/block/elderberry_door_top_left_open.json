@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_top_left_open",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bottom": "hops_and_barrels:block/elderberry_door_bottom",
+    "top": "hops_and_barrels:block/elderberry_door_top"
+  }
+}

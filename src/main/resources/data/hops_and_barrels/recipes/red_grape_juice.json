@@ -1,0 +1,18 @@
+{
+  "type": "hops_and_barrels:juicing",
+  "ingredients": [
+    { "item": "hops_and_barrels:red_grapes" },
+    { "item": "hops_and_barrels:red_grapes" },
+    { "item": "hops_and_barrels:red_grapes" },
+    { "item": "hops_and_barrels:red_grapes" },
+    { "item": "hops_and_barrels:red_grapes" },
+    { "item": "hops_and_barrels:red_grapes" },
+    { "item": "hops_and_barrels:red_grapes" },
+    { "item": "hops_and_barrels:red_grapes" },
+    { "item": "hops_and_barrels:red_grapes" }
+  ],
+  "result": {
+    "item": "hops_and_barrels:red_grape_juice",
+    "count": 3
+  }
+}

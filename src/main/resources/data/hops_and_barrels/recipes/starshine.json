@@ -1,0 +1,17 @@
+{
+  "type": "hops_and_barrels:keg_brewing",
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "ingredients": [
+    {
+      "item": "hops_and_barrels:hooded_mushroom_juice"
+    },
+    {
+      "item": "hops_and_barrels:hooded_mushroom_juice"
+    }
+  ],
+  "result": {
+    "item": "hops_and_barrels:starshine"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "hops_and_barrels:vodka"
+    },
+    {
+      "item": "hops_and_barrels:apple_juice"
+    },
+    {
+      "item": "minecraft:pink_petals"
+    },
+    {
+      "item": "minecraft:pink_petals"
+    }
+  ],
+  "result": {
+    "item": "hops_and_barrels:sunset_rose"
+  }
+}

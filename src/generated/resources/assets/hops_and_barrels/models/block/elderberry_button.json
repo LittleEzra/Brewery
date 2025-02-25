@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "hops_and_barrels:block/elderberry_planks"
+  }
+}

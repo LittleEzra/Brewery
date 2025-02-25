@@ -1,0 +1,31 @@
+{
+  "parent": "hops_and_barrels:hardy_brew",
+  "criteria": {
+    "0": {
+      "conditions": {},
+      "trigger": "hops_and_barrels:lethal_bulwark_protection"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#DBA213",
+      "translate": "advancement.hops_and_barrels.lethal_bulwark_protection.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "hops_and_barrels:hardy_brew"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.hops_and_barrels.lethal_bulwark_protection"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

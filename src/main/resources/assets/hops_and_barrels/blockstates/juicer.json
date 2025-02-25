@@ -1,0 +1,65 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "hops_and_barrels:block/juicer"
+      }
+    },
+    {
+      "apply": {
+        "model": "hops_and_barrels:block/juicer_piston1"
+      },
+      "when": {
+        "level": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "hops_and_barrels:block/juicer_piston2"
+      },
+      "when": {
+        "level": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "hops_and_barrels:block/juicer_piston3"
+      },
+      "when": {
+        "level": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "hops_and_barrels:block/juicer_piston4"
+      },
+      "when": {
+        "level": "3"
+      }
+    },
+    {
+      "apply": {
+        "model": "hops_and_barrels:block/juicer_piston5"
+      },
+      "when": {
+        "level": "4"
+      }
+    },
+    {
+      "apply": {
+        "model": "hops_and_barrels:block/juicer_piston6"
+      },
+      "when": {
+        "level": "5"
+      }
+    },
+    {
+      "apply": {
+        "model": "hops_and_barrels:block/juicer_piston7"
+      },
+      "when": {
+        "level": "6"
+      }
+    }
+  ]
+}

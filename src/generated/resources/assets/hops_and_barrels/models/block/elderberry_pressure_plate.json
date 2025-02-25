@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/pressure_plate_up",
+  "textures": {
+    "texture": "hops_and_barrels:block/elderberry_planks"
+  }
+}

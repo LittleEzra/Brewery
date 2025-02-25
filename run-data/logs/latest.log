@@ -1,0 +1,43 @@
+[26Jul2024 23:26:53.686] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\natti\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.1.44, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, hops_and_barrels, --all, --output, C:\Users\natti\Documents\GameDev\Minecraft Mods\Brewery\src\generated\resources, --existing, C:\Users\natti\Documents\GameDev\Minecraft Mods\Brewery\src\main\resources]
+[26Jul2024 23:26:53.696] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.11 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[26Jul2024 23:26:53.817] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[26Jul2024 23:26:53.899] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/natti/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[26Jul2024 23:26:54.277] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\natti\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.1.44\5f9e4f02111b8556646fe30d438a395d7831489b\javafmllanguage-1.20.1-47.1.44.jar is missing mods.toml file
+[26Jul2024 23:26:54.280] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\natti\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.1.44\b0c75b3aaa10da1e196c661e2d26a95f2ef06f89\lowcodelanguage-1.20.1-47.1.44.jar is missing mods.toml file
+[26Jul2024 23:26:54.285] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\natti\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.1.44\c9b0a38bc3bb899928b360953b4a562783c54661\mclanguage-1.20.1-47.1.44.jar is missing mods.toml file
+[26Jul2024 23:26:54.287] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\natti\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.1.44\92f79b4cb3298ce1c261e2d14515244b3445f130\fmlcore-1.20.1-47.1.44.jar is missing mods.toml file
+[26Jul2024 23:26:54.381] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[26Jul2024 23:26:55.875] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\natti\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, hops_and_barrels, --all, --output, C:\Users\natti\Documents\GameDev\Minecraft Mods\Brewery\src\generated\resources, --existing, C:\Users\natti\Documents\GameDev\Minecraft Mods\Brewery\src\main\resources]
+[26Jul2024 23:26:56.285] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [hops_and_barrels]
+[26Jul2024 23:27:02.541] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.1.44, for MC 1.20.1 with MCP 20230612.114412
+[26Jul2024 23:27:02.542] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.1.44 Initialized
+[26Jul2024 23:27:03.023] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[26Jul2024 23:27:03.031] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 5.044 ms
+[26Jul2024 23:27:03.882] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/natti/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.1.44_mapped_parchment_2023.08.20-1.20.1/forge-1.20.1-47.1.44_mapped_parchment_2023.08.20-1.20.1-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[26Jul2024 23:27:03.883] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/natti/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.1.44_mapped_parchment_2023.08.20-1.20.1/forge-1.20.1-47.1.44_mapped_parchment_2023.08.20-1.20.1-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[26Jul2024 23:27:04.161] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[26Jul2024 23:27:04.209] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 47 ms
+[26Jul2024 23:27:04.210] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[26Jul2024 23:27:04.337] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 126 ms
+[26Jul2024 23:27:04.337] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Advancements
+[26Jul2024 23:27:04.351] [main/INFO] [net.minecraft.data.DataGenerator/]: Advancements finished after 13 ms
+[26Jul2024 23:27:04.351] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: hops_and_barrels
+[26Jul2024 23:27:04.550] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: hops_and_barrels finished after 199 ms
+[26Jul2024 23:27:04.551] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: hops_and_barrels
+[26Jul2024 23:27:04.576] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: hops_and_barrels finished after 25 ms
+[26Jul2024 23:27:04.576] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Languages: en_us
+[26Jul2024 23:27:04.580] [main/INFO] [net.minecraft.data.DataGenerator/]: Languages: en_us finished after 3 ms
+[26Jul2024 23:27:04.580] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id hops_and_barrels
+[26Jul2024 23:27:04.600] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id hops_and_barrels finished after 19 ms
+[26Jul2024 23:27:04.600] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id hops_and_barrels
+[26Jul2024 23:27:04.604] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id hops_and_barrels finished after 2 ms
+[26Jul2024 23:27:04.604] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:entity_type mod id hops_and_barrels
+[26Jul2024 23:27:04.604] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:entity_type mod id hops_and_barrels finished after 0 ms
+[26Jul2024 23:27:04.604] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:worldgen/biome mod id hops_and_barrels
+[26Jul2024 23:27:04.605] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:worldgen/biome mod id hops_and_barrels finished after 0 ms
+[26Jul2024 23:27:04.605] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Registries
+[26Jul2024 23:27:04.619] [main/INFO] [net.minecraft.data.DataGenerator/]: Registries finished after 14 ms
+[26Jul2024 23:27:04.620] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Global Loot Modifiers : hops_and_barrels
+[26Jul2024 23:27:04.632] [main/INFO] [net.minecraft.data.DataGenerator/]: Global Loot Modifiers : hops_and_barrels finished after 11 ms
+[26Jul2024 23:27:04.632] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 470 ms
+[26Jul2024 23:27:04.668] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 263, old count: 263, new count: 264, removed stale: 0, written: 4

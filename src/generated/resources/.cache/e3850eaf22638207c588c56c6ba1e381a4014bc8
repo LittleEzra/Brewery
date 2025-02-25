@@ -1,0 +1,14 @@
+// 1.20.1	2024-03-11T14:19:11.3514417	Tags for minecraft:item mod id hops_and_barrels
+5b3d2c8111c48a5d8a660399611473a26766d7d0 data/hops_and_barrels/tags/items/alcohol.json
+bcf2d03252b038814fbb6cff203da9145587a69e data/hops_and_barrels/tags/items/elderberry_logs.json
+c624e5476e06b483dd1cdaaa4331a607dd0a68fe data/minecraft/tags/items/leaves.json
+15535fa78b5894e95b983abef7d014b2cc949e8f data/minecraft/tags/items/logs_that_burn.json
+746fcd58036bd28e369309d6ed0e3e03615d4ec8 data/minecraft/tags/items/planks.json
+cdb9c4c534a25dc45ade89a2dac05c549a83dc14 data/minecraft/tags/items/saplings.json
+9b6f258e80315157eb75e6126eef6e30cb9e8049 data/minecraft/tags/items/wooden_buttons.json
+4674297658bc9600cc83c2363389ba657d4b847b data/minecraft/tags/items/wooden_doors.json
+591a5b787b8f508e7dc3d491d8e587e921c6caca data/minecraft/tags/items/wooden_fences.json
+e565852a21fc84daf6f5318b58978d8e9010e17c data/minecraft/tags/items/wooden_pressure_plates.json
+6115ce45acedb4d9be524e9b816ab7b636f1b7f3 data/minecraft/tags/items/wooden_slabs.json
+e5d8480e1e732b84c780505be97345466e895c97 data/minecraft/tags/items/wooden_stairs.json
+a082c7208df8417b247ec33f60ea68608c009873 data/minecraft/tags/items/wooden_trapdoors.json

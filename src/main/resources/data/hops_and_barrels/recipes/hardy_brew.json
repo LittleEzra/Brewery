@@ -1,0 +1,17 @@
+{
+  "type": "hops_and_barrels:keg_brewing",
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "ingredients": [
+    {
+      "item": "hops_and_barrels:hops"
+    },
+    {
+      "item": "hops_and_barrels:hops"
+    }
+  ],
+  "result": {
+    "item": "hops_and_barrels:hardy_brew"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "hops_and_barrels:double_crop_drops",
+  "conditions": [
+    {
+      "condition": "hops_and_barrels:is_crop_block"
+    },
+    {
+      "condition": "hops_and_barrels:has_mob_effect",
+      "mob_effect": "hops_and_barrels:husbandry"
+    }
+  ]
+}

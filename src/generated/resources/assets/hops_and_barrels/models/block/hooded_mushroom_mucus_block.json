@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "render_type": "minecraft:translucent",
+  "textures": {
+    "all": "hops_and_barrels:block/hooded_mushroom_mucus_block"
+  }
+}

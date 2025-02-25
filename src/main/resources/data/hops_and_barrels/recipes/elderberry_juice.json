@@ -1,0 +1,18 @@
+{
+  "type": "hops_and_barrels:juicing",
+  "ingredients": [
+    { "item": "hops_and_barrels:elderberries" },
+    { "item": "hops_and_barrels:elderberries" },
+    { "item": "hops_and_barrels:elderberries" },
+    { "item": "hops_and_barrels:elderberries" },
+    { "item": "hops_and_barrels:elderberries" },
+    { "item": "hops_and_barrels:elderberries" },
+    { "item": "hops_and_barrels:elderberries" },
+    { "item": "hops_and_barrels:elderberries" },
+    { "item": "hops_and_barrels:elderberries" }
+  ],
+  "result": {
+    "item": "hops_and_barrels:elderberry_juice",
+    "count": 3
+  }
+}

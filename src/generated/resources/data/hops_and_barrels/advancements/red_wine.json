@@ -1,0 +1,39 @@
+{
+  "parent": "hops_and_barrels:eat_red_grapes",
+  "criteria": {
+    "0": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "hops_and_barrels:red_wine"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#DBA213",
+      "translate": "advancement.hops_and_barrels.red_wine.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "hops_and_barrels:red_wine"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.hops_and_barrels.red_wine"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

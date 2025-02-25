@@ -1,0 +1,40 @@
+{
+  "variants": {
+    "height=0,age=0": {
+      "model": "hops_and_barrels:block/hops_crop_base_stage0"
+    },
+    "height=0,age=1": {
+      "model": "hops_and_barrels:block/hops_crop_base_stage1"
+    },
+    "height=0,age=2": {
+      "model": "hops_and_barrels:block/hops_crop_base_stage2"
+    },
+    "height=0,age=3": {
+      "model": "hops_and_barrels:block/hops_crop_base_stage3"
+    },
+    "height=1,age=0": {
+      "model": "hops_and_barrels:block/hops_crop_stage0"
+    },
+    "height=1,age=1": {
+      "model": "hops_and_barrels:block/hops_crop_stage1"
+    },
+    "height=1,age=2": {
+      "model": "hops_and_barrels:block/hops_crop_stage2"
+    },
+    "height=1,age=3": {
+      "model": "hops_and_barrels:block/hops_crop_stage3"
+    },
+    "height=2,age=0": {
+      "model": "hops_and_barrels:block/hops_crop_stage0"
+    },
+    "height=2,age=1": {
+      "model": "hops_and_barrels:block/hops_crop_stage1"
+    },
+    "height=2,age=2": {
+      "model": "hops_and_barrels:block/hops_crop_stage2"
+    },
+    "height=2,age=3": {
+      "model": "hops_and_barrels:block/hops_crop_stage3"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "hops_and_barrels:juicing",
+  "ingredients": [
+    { "item": "minecraft:apple" },
+    { "item": "minecraft:apple" },
+    { "item": "minecraft:apple" },
+    { "item": "minecraft:apple" }
+  ],
+  "result": {
+    "item": "hops_and_barrels:apple_juice",
+    "count": 2
+  }
+}

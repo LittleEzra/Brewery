@@ -1,0 +1,14 @@
+{
+  "type": "hops_and_barrels:add_item",
+  "conditions": [
+    {
+      "block": "minecraft:grass",
+      "condition": "minecraft:block_state_property"
+    },
+    {
+      "chance": 0.07,
+      "condition": "minecraft:random_chance"
+    }
+  ],
+  "item": "hops_and_barrels:hops_seeds"
+}

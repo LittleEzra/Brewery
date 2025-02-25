@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_hooded_mushroom_mucus": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "hops_and_barrels:hooded_mushroom_mucus"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "hops_and_barrels:hooded_mushroom_mucus_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_hooded_mushroom_mucus",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "hops_and_barrels:hooded_mushroom_mucus_block"
+    ]
+  },
+  "sends_telemetry_event": false
+}

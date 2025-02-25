@@ -1,0 +1,6 @@
+{
+  "parent": "hops_and_barrels:item/mug_item",
+  "textures": {
+    "layer0": "hops_and_barrels:item/beer"
+  }
+}

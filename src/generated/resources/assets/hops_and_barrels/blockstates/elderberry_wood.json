@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "hops_and_barrels:block/elderberry_wood_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "hops_and_barrels:block/elderberry_wood"
+    },
+    "axis=z": {
+      "model": "hops_and_barrels:block/elderberry_wood_horizontal",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "parent": "hops_and_barrels:root",
+  "criteria": {
+    "0": {
+      "conditions": {
+        "item": {
+          "items": [
+            "hops_and_barrels:hangover_cure"
+          ]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "color": "#DBA213",
+      "translate": "advancement.hops_and_barrels.alcohol_antidote.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "hops_and_barrels:hangover_cure"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.hops_and_barrels.alcohol_antidote"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
