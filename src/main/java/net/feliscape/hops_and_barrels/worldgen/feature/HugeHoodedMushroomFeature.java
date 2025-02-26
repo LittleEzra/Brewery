@@ -2,7 +2,7 @@ package net.feliscape.hops_and_barrels.worldgen.feature;
 
 import com.mojang.serialization.Codec;
 import net.feliscape.hops_and_barrels.Brewery;
-import net.feliscape.hops_and_barrels.block.ModBlocks;
+import net.feliscape.hops_and_barrels.registry.ModBlocks;
 import net.feliscape.hops_and_barrels.worldgen.feature.configurations.HugeHoodedMushroomFeatureConfiguration;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
@@ -10,12 +10,9 @@ import net.minecraft.tags.BlockTags;
 import net.minecraft.util.RandomSource;
 import net.minecraft.world.level.LevelAccessor;
 import net.minecraft.world.level.WorldGenLevel;
-import net.minecraft.world.level.block.HugeMushroomBlock;
 import net.minecraft.world.level.block.state.BlockState;
-import net.minecraft.world.level.levelgen.feature.AbstractHugeMushroomFeature;
 import net.minecraft.world.level.levelgen.feature.Feature;
 import net.minecraft.world.level.levelgen.feature.FeaturePlaceContext;
-import net.minecraft.world.level.levelgen.feature.configurations.HugeMushroomFeatureConfiguration;
 
 public class HugeHoodedMushroomFeature extends Feature<HugeHoodedMushroomFeatureConfiguration> {
     public HugeHoodedMushroomFeature(Codec<HugeHoodedMushroomFeatureConfiguration> pCodec) {

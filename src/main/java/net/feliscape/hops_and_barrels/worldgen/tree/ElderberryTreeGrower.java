@@ -1,6 +1,6 @@
 package net.feliscape.hops_and_barrels.worldgen.tree;
 
-import net.feliscape.hops_and_barrels.worldgen.ModConfiguredFeatures;
+import net.feliscape.hops_and_barrels.registry.ModConfiguredFeatures;
 import net.minecraft.resources.ResourceKey;
 import net.minecraft.util.RandomSource;
 import net.minecraft.world.level.block.grower.AbstractTreeGrower;

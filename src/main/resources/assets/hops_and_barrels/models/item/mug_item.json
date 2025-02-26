@@ -1,16 +1,17 @@
 {
-	"parent": "minecraft:item/generated",
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
-		    "rotation": [-70, -90, -140],
-        	"translation": [0, 2, 0.25],
-        	"scale": [0.55, 0.55, 0.55]
+			"rotation": [-70, -90, -140],
+			"translation": [0, 2, 0.25],
+			"scale": [0.75, 0.75, 0.75]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [70, 90, 0],
 			"translation": [0, 2, 0.25],
-			"scale": [0.55, 0.55, 0.55]
+			"scale": [0.75, 0.75, 0.75]
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -90, 10],

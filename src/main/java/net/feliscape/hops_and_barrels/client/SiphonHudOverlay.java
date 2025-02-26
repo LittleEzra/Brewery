@@ -2,9 +2,8 @@ package net.feliscape.hops_and_barrels.client;
 
 import com.mojang.blaze3d.systems.RenderSystem;
 import net.feliscape.hops_and_barrels.Brewery;
-import net.feliscape.hops_and_barrels.effect.ModMobEffects;
+import net.feliscape.hops_and_barrels.registry.ModMobEffects;
 import net.feliscape.hops_and_barrels.util.ColorUtil;
-import net.minecraft.client.Minecraft;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraftforge.client.gui.overlay.IGuiOverlay;
 

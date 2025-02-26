@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "priority": 1101,
+  "package": "net.feliscape.hops_and_barrels.content.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
